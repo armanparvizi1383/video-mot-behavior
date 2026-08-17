@@ -2,7 +2,7 @@
 
 Detect, track, and analyze the behavior of multiple objects in video.
 
-**Status:** 🚧 Step 1 — Detection baseline working.
+**Status:** ✅ Detection (YOLOv8) + custom ByteTrack implementation (Kalman filter + two-stage IOU matching) working, including a real-time webcam demo.
 
 
 <img width="640" height="360" alt="demo" src="https://github.com/user-attachments/assets/a1605443-4665-4b71-a48a-ffc13f0f617a" />
