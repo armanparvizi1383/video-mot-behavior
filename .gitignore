@@ -1,0 +1,30 @@
+# Downloaded model weights (large, auto re-downloaded by ultralytics on first run)
+*.pt
+*.onnx
+
+# Generated video outputs (re-creatable by running the scripts)
+data/outputs/
+
+# Personal/raw input videos (don't want to commit your own footage by accident)
+data/*.mp4
+data/*.mov
+data/*.avi
+
+# Demo media for the README (e.g. docs/demo.gif, docs/demo.mp4) is
+# intentionally NOT ignored -- keep that so the showcase clip stays in the repo.
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+venv/
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
