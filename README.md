@@ -4,6 +4,11 @@ Detect, track, and analyze the behavior of multiple objects in video.
 
 **Status:** 🚧 Step 1 — Detection baseline working.
 
+
+https://github.com/user-attachments/assets/87efabe3-6096-483a-b484-e8afd4c73472
+
+
+
 ## Roadmap
 - [x] Step 1: Detection baseline (YOLOv8 on a video/webcam)
 - [x] Step 2: Multi-object tracking
