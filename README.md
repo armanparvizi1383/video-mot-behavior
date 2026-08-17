@@ -5,7 +5,8 @@ Detect, track, and analyze the behavior of multiple objects in video.
 **Status:** 🚧 Step 1 — Detection baseline working.
 
 
-https://github.com/user-attachments/assets/87efabe3-6096-483a-b484-e8afd4c73472
+<img width="640" height="360" alt="demo" src="https://github.com/user-attachments/assets/a1605443-4665-4b71-a48a-ffc13f0f617a" />
+
 
 
 
